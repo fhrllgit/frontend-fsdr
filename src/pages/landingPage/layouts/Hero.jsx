@@ -1,3 +1,4 @@
+import hero from "../../../../src/assets/img/hero.png"
 function Hero() {
   return (
     <>
