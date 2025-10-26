@@ -79,7 +79,7 @@ export default function Navbar() {
             <div className="flex items-center gap-2">
               <BsTruck size={20} />
               <span className="text-xs tracking-tight">
-                GRATIS ONGKIR UNTUK PENGGUNA PERTAMA
+                GRATIS ONGKIR UNTUK PENGGUNA PERTAMAaaaa
               </span>
             </div>
             <div className="flex items-center gap-2">
